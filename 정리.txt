@@ -1,0 +1,21 @@
+
+git add 시 커밋 대기상 -> git stage area에 올라감
+
+stage - repository
+
+commit 시 version이 됌
+
+commit이 된 파일, 정보들이 저장되는 곳이 repository
+
+
+
+
+
+
+
+
+
+
+
+
+
