@@ -1,8 +1,7 @@
 function b() {
 }
 
-function a(exp) {
+function a(master, exp) {
 }
-
 function c() {
 }
